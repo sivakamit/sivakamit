@@ -30,6 +30,8 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 
 ### Other Projects
 
+[Implementation of Zozzle](https://github.com/sivakamit/Implementation_of_Zozzle)
+
 [Differential Expression of Fruit Flies](https://github.com/sivakamit/Differential_Expression_of_Fruit_Flies)
 
 [Netflix Analysis and Recommendation system](https://github.com/sivakamit/Netflix_Analysis_and_Recommendation_system)
