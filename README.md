@@ -8,6 +8,16 @@ LinkedIn - https://www.linkedin.com/in/sivakami-thinnappan/
 
 Here is a brief summary of my github profile. Feel free to explore any of my repositories.
 
+### Web Development Projects
+
+[StreamHive](https://github.com/sivakamit/StreamHive)
+
+[Explorer](https://github.com/sivakamit/Explorer_app)
+
+[Shopkart](https://github.com/sivakamit/Shopkart)
+
+[E-learning and Gaming website](https://github.com/sivakamit/software_engineering_project)
+
 ### Machine Learning Projects
 
 [Road Lane Detection](https://github.com/sivakamit/Road_lane_detection)
@@ -21,12 +31,6 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 [Simulated annealing Technique](https://github.com/sivakamit/simulated_annealing_TSP)
 
 [Ant colony Optimization](https://github.com/sivakamit/Ant_colony_optimization_TSP)
-
-### Web Development Projects
-
-[E-learning and Gaming website](https://github.com/sivakamit/software_engineering_project)
-
-[Amazon Clone](https://github.com/sivakamit/Amazon_clone)
 
 ### Other Projects
 
