@@ -18,6 +18,8 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 
 [Springboot CRUD operations](https://github.com/sivakamit/SpringBoot-CRUD-operations)
 
+[Openai Codex](https://github.com/sivakamit/Openai-codex)
+
 [E-learning and Gaming website](https://github.com/sivakamit/software_engineering_project)
 
 ### Machine Learning Projects
