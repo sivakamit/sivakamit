@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sivakami, an Engineer skilled in Software Development. Pursuing Master of Science in Computer Science from Purdue University. I have experience working as a Software Development Engineer Intern at Lookout Inc. Profecient in Python, JavaScript, HTML, CSS, C and Java programming languages. I'm passionate about Machine Learning and Web development. 
+I am Sivakami, an Engineer skilled in Software Development. I graduated from Purdue university with a Master's degree in Computer Science. I have experience working as a Software Development Engineer Intern at Lookout Inc. Profecient in Python, Java, JavaScript, HTML, CSS, and C programming languages. I'm passionate about Web development and Machine Learning. 
 
 Email - sivakamit26@gmail.com
 
