@@ -24,6 +24,8 @@ Here is a brief summary of my github profile. Feel free to explore any of my rep
 
 ### Machine Learning Projects
 
+[Skin Cancer Classification](https://github.com/sivakamit/skin-cancer-detection)
+
 [Road Lane Detection](https://github.com/sivakamit/Road_lane_detection)
 
 [Amazon Stock Price Prediction](https://github.com/sivakamit/Stock_prediction)
